@@ -20,3 +20,9 @@
 #row-marcas{
    background-color:#D1E7DD;
 }
+#row-variedad{
+   background-color: #A7B9B1;
+}
+#row-variedad img{
+   border-radius: 55%;
+}
