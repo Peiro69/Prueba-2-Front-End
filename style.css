@@ -1,6 +1,9 @@
 .container{
    max-width: 1200px; 
 }
+.row{
+   margin: 0;
+}
 #row-inicio{
    color:black;
    font-size: 45px;
@@ -28,4 +31,7 @@
 }
 #row-mapa{
    background-color: #D1E7DD;
+}
+#row-form{
+   background-color:#A7B9B1;
 }
